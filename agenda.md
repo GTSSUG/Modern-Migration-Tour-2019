@@ -33,7 +33,7 @@ Estas son algunas consideraciones especiales:
 
 * **Laboratorio:** Debes de traer tu laptop si deseas participar en el laboratiorio, habran premios para las primeras personas 
 que lo completen exitosamente.
-Por favor [sigue esta guia](readme.md) para configurar tu maquina con el software necesario antes del evento.
+Por favor [sigue esta guia](README.md) para configurar tu maquina con el software necesario antes del evento.
 
 * **Rifa:** Habran varios premios para los asistentes al evento, se daran premios unicamente a las personas que esten presentes al momento
 de la rifa.
