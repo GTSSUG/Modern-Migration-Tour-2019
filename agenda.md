@@ -9,17 +9,17 @@ y algunas consideraciones a tener
 Este evento se realizara de 9 de la mañana a 5 de la tarde, pero si por algun motivo no puedes asistir durante todo el dia, te dejamos
 la agenda para que puedas conocer el mejor horario al que puedes asistir:
 
-* **9:00 - 9:30**	Registro
-* **9:30 - 9:40**	Bienvenida
-* **9:40 - 10:30**	Charla 1: **Beating the End of Support for SQL Server 2008/R2** - Christian Araujo
-* **10:30 - 11:15**	Charla 2: **Modernizing with SQL Server the Right Way, Tools to migrate** - Allan Fong
-* **11:15 - 12:00** Charla 3: **Modernizing with SQL Server the Right Way, Post migration actions** - Eduardo Pivaral
-* **12:00 - 13:00**	Almuerzo (ver [Notas](agenda.md#notas) abajo)
-* **13:00 - 13:45**	Charla 3: **Modernizing with SQL Server 2019 & Intel, New hardware capabilities** - Carlos Lopez
-* **13:45 - 14:45**	Charla 4: **Modernizing with SQL Server 2019 & Intel, virtualization and containers** - Carlos Robles
-* **14:45 - 15:00** Receso
-* **15:00 - 16:30**	Laboratorio (Ver [Notas](agenda.md#notas)  abajo)
-* **16:30 - 17:00**	Rifa y cierre del evento
+* **9:00 - 9:30**	    Registro
+* **9:30 - 9:40**	    Bienvenida
+* **9:40 - 10:30**	  Charla 1: **Beating the End of Support for SQL Server 2008/R2** - Christian Araujo
+* **10:30 - 11:15**	  Charla 2: **Modernizing with SQL Server the Right Way, Tools to migrate** - Allan Fong
+* **11:15 - 12:00**   Charla 3: **Modernizing with SQL Server the Right Way, Post migration actions** - Eduardo Pivaral
+* **12:00 - 13:00**	  Almuerzo (ver [Notas](agenda.md#notas) abajo)
+* **13:00 - 13:45**	  Charla 3: **Modernizing with SQL Server 2019 & Intel, New hardware capabilities** - Carlos Lopez
+* **13:45 - 14:45**	  Charla 4: **Modernizing with SQL Server 2019 & Intel, virtualization and containers** - Carlos Robles
+* **14:45 - 15:00**   Receso
+* **15:00 - 16:30**	  Laboratorio (Ver [Notas](agenda.md#notas)  abajo)
+* **16:30 - 17:00**	  Rifa y cierre del evento
 
 
 ## Notas
