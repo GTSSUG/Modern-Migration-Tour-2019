@@ -2,8 +2,6 @@
 
 # Agenda
 
-Este evento se realizara de 9 de la mañana a 5 de la tarde, pero si por algun motivo no puedes asistir durante todo el dia, te dejamos
-la agenda para que puedas conocer el mejor horario al que puedes asistir:
 
 Hora | Actividad | Speaker
 --- | --- | --- 
