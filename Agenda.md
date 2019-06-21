@@ -26,7 +26,7 @@ Gracias a nuestros patrocinadores, este evento es totalmente gratuito, asi que u
 Estas son algunas consideraciones especiales:
 
 ## Parqueo
-No tendra ningun costo, cortesia de GTSSUG y GBM
+No tendra ningun costo, cortesia de Microsoft, Intel y GBM
 
 ## Comida
 Cofee break y almuerzo esta incluido totalmente gratis
