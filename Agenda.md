@@ -5,16 +5,16 @@
 Este evento se realizara de 9 de la mañana a 5 de la tarde, pero si por algun motivo no puedes asistir durante todo el dia, te dejamos
 la agenda para que puedas conocer el mejor horario al que puedes asistir:
 
-Time | Description | Speaker
+Hora | Actividad | Speaker
 --- | --- | --- 
 09:00 - 09:30 | Registro | N/A
 09:30 - 09:40 | Bienvenida | Carlos Robles
 09:40 - 10:30 | Beating the End of Support for SQL Server 2008/R2 | Christian Araujo
-10:30 - 11:15 | Modernizing with SQL Server the Right Way, Tools to migrate | Allan Fong
-11:15 - 12:00 | Modernizing with SQL Server the Right Way, Post migration actions | Eduardo Pivaral
-12:00 - 13:00 | [Almuerzo](#Notas) | N/A
-13:00 - 13:45 | Modernizing with SQL Server 2019 & Intel, New hardware capabilities | Carlos Lopez
-13:45 - 14:45 | Modernizing with SQL Server 2019 & Intel, virtualization and containers | Carlos Robles
+10:30 - 11:15 | Modernizing with SQL Server the Right Way (Migration process) | Allan Fong
+11:15 - 12:00 | Modernizing with SQL Server the Right Way (Post-Migration process) | Eduardo Pivaral
+12:00 - 13:00 | [Almuerzo](##Comida) | N/A
+13:00 - 13:45 | Modernizing with SQL Server 2019 & Intel (New hardware capabilities) | Carlos Lopez
+13:45 - 14:45 | Modernizing with SQL Server 2019 & Intel (Azure, Containers and K8s) | Carlos Robles
 14:45 - 15:00 | Coffee Break | N/A
 15:00 - 16:30 | Laboratorio (Ver [Notas](agenda.md#notas)  abajo) | N/A
 16:30 - 17:00 | Rifa y cierre del evento | N/A
