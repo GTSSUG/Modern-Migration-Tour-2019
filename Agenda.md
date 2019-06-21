@@ -29,11 +29,11 @@ Estas son algunas consideraciones especiales:
 No tendra ningun costo, cortesia de Microsoft, Intel y GBM
 
 ## Comida
-Cofee break y almuerzo esta incluido totalmente gratis
+Cofee break y almuerzo sin costo, cortesia de Microsoft, Intel
 
 ## Workshop
-Debes de traer tu laptop si deseas participar en el laboratiorio, habran premios para las primeras personas 
-que lo completen exitosamente.
+Es necesario contar con laptop, habran premios para las primeras personas que completen el ejercicio de migracion exitosamente.
+
 Por favor [sigue esta guia](README.md) para configurar tu maquina con el software necesario antes del evento.
 
 ## Rifas
