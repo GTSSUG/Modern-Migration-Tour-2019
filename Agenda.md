@@ -1,10 +1,6 @@
 ![Header](images/header.jpg)
-# Agenda y consideraciones para el evento
 
-Ya quedan pocos dias para el evento (Miercoles 26 de Junio) y para estar preparado para el evento, te dejamos la agenda
-y algunas consideraciones a tener
-
-## Agenda
+# Agenda
 
 Este evento se realizara de 9 de la mañana a 5 de la tarde, pero si por algun motivo no puedes asistir durante todo el dia, te dejamos
 la agenda para que puedas conocer el mejor horario al que puedes asistir:
@@ -22,7 +18,7 @@ la agenda para que puedas conocer el mejor horario al que puedes asistir:
 * **16:30 - 17:00**	  Rifa y cierre del evento
 
 
-## Notas
+# Notas
 
 Gracias a nuestros patrocinadores, este evento es totalmente gratuito, asi que unicamente tienes que asistir al envento!
 Estas son algunas consideraciones especiales:
