@@ -1,5 +1,5 @@
 ![Header](images/header.jpg)
-# PASS Modern Migration Tour 2019 - Agenda y consideraciones para el evento
+# Agenda y consideraciones para el evento
 
 Ya quedan pocos dias para el evento (Miercoles 26 de Junio) y para estar preparado para el evento, te dejamos la agenda
 y algunas consideraciones a tener
