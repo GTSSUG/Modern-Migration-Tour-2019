@@ -34,21 +34,15 @@ Cofee break y almuerzo sin costo, cortesia de Microsoft, Intel
 ## Workshop
 Es necesario contar con laptop, habran premios para las primeras personas que completen el ejercicio de migracion exitosamente.
 
-Por favor [sigue esta guia](README.md) para configurar tu maquina con el software necesario antes del evento.
+Por favor [revisar guia](README.md) para preparar la laptop a utilizar durante el workshop.
 
-## Rifas
-Habran varios premios para los asistentes al evento, se daran premios unicamente a las personas que esten presentes al momento
-de la rifa.
+## Rifa
+Habran premios para los asistentes del evento, es requisito estar presente durante la rifa.
 
-## Reconocimiento
-Se dara diploma de participacion a los asistentes.
+## Diploma de particion
+Todos los asistentes contaran con diploma de participacion.
 
 ## Contacto
-
 Si aun no te has registrado al evento, puedes hacerlo [aqui](https://www.eventbrite.ca/e/modern-migration-tour-2019-guatemala-tickets-61944098466)
 
-Tambien puedes seguirnos en nuestro grupo de [Facebook](https://www.facebook.com/groups/gtssug/) para conocer mas acerca de este y otros eventos.
-
-y nuestro sitio oficial de PASS [gtssug.pass.org](https://gtssug.pass.org/default.aspx)
-
-
+Seguinos en [Facebook](https://www.facebook.com/groups/gtssug/) para conocer mas acerca de este y otros eventos.
