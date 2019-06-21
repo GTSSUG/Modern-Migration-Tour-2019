@@ -20,23 +20,28 @@ Time | Description | Speaker
 16:30 - 17:00 | Rifa y cierre del evento | N/A
 
 
-# Notas
+# Logistica
 
 Gracias a nuestros patrocinadores, este evento es totalmente gratuito, asi que unicamente tienes que asistir al envento!
 Estas son algunas consideraciones especiales:
 
-* **Parqueo:** Se incluira parqueo el dia del evento, el minimo de tiempo que debes asistir al evento son 2 horas.
+## Parqueo
+No tendra ningun costo, cortesia de GTSSUG y GBM
 
-* **Comida:** Cofee break y almuerzo esta incluido totalmente gratis
+## Comida
+Cofee break y almuerzo esta incluido totalmente gratis
 
-* **Laboratorio:** Debes de traer tu laptop si deseas participar en el laboratiorio, habran premios para las primeras personas 
+## Laboratorio
+Debes de traer tu laptop si deseas participar en el laboratiorio, habran premios para las primeras personas 
 que lo completen exitosamente.
 Por favor [sigue esta guia](README.md) para configurar tu maquina con el software necesario antes del evento.
 
-* **Rifa:** Habran varios premios para los asistentes al evento, se daran premios unicamente a las personas que esten presentes al momento
+## Rifas
+Habran varios premios para los asistentes al evento, se daran premios unicamente a las personas que esten presentes al momento
 de la rifa.
 
-* **Reconocimiento:** Se dara diploma de participacion a los asistentes.
+## Reconocimiento
+Se dara diploma de participacion a los asistentes.
 
 ## Contacto
 
