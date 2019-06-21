@@ -19,6 +19,7 @@ Time | Description | Speaker
 15:00 - 16:30 | Laboratorio (Ver [Notas](agenda.md#notas)  abajo) | N/A
 16:30 - 17:00 | Rifa y cierre del evento | N/A
 
+[Link to Header](#Notas)
 
 # Notas
 
