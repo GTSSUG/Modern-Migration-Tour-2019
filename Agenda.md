@@ -41,5 +41,5 @@ Habran premios para los asistentes del evento, es requisito estar presente duran
 Todos los asistentes contaran con diploma de participacion.
 
 # Contacto
-Para mas informacion y registro de este evento click [aqui](https://www.eventbrite.ca/e/modern-migration-tour-2019-guatemala-tickets-61944098466)  
+Para mas informacion y registro de este evento click [aqui](https://www.eventbrite.ca/e/modern-migration-tour-2019-guatemala-tickets-61944098466).  
 Seguinos en [Facebook](https://www.facebook.com/groups/gtssug/) para conocer mas acerca de este y otros eventos.
