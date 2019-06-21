@@ -12,7 +12,7 @@ Time | Description | Speaker
 09:40 - 10:30 | Beating the End of Support for SQL Server 2008/R2 | Christian Araujo
 10:30 - 11:15 | Modernizing with SQL Server the Right Way, Tools to migrate | Allan Fong
 11:15 - 12:00 | Modernizing with SQL Server the Right Way, Post migration actions | Eduardo Pivaral
-12:00 - 13:00 | Almuerzo (ver [Notas](agenda.md#notas) abajo) | N/A
+12:00 - 13:00 | [Almuerzo](#Notas-2) | N/A
 13:00 - 13:45 | Modernizing with SQL Server 2019 & Intel, New hardware capabilities | Carlos Lopez
 13:45 - 14:45 | Modernizing with SQL Server 2019 & Intel, virtualization and containers | Carlos Robles
 14:45 - 15:00 | Coffee Break | N/A
