@@ -12,11 +12,11 @@ Hora | Actividad | Speaker
 09:40 - 10:30 | Beating the End of Support for SQL Server 2008/R2 | Christian Araujo
 10:30 - 11:15 | Modernizing with SQL Server the Right Way (Migration process) | Allan Fong
 11:15 - 12:00 | Modernizing with SQL Server the Right Way (Post-Migration process) | Eduardo Pivaral
-12:00 - 13:00 | [Almuerzo](#Comida) | N/A
+12:00 - 13:00 | [Lunch](#Comida) | N/A
 13:00 - 13:45 | Modernizing with SQL Server 2019 & Intel (New hardware capabilities) | Carlos Lopez
 13:45 - 14:45 | Modernizing with SQL Server 2019 & Intel (Azure, Containers and K8s) | Carlos Robles
 14:45 - 15:00 | Coffee Break | N/A
-15:00 - 16:30 | Laboratorio (Ver [Notas](agenda.md#notas)  abajo) | N/A
+15:00 - 16:30 | [Workshop](#Workshop) | N/A
 16:30 - 17:00 | Rifa y cierre del evento | N/A
 
 
@@ -31,7 +31,7 @@ No tendra ningun costo, cortesia de GTSSUG y GBM
 ## Comida
 Cofee break y almuerzo esta incluido totalmente gratis
 
-## Laboratorio
+## Workshop
 Debes de traer tu laptop si deseas participar en el laboratiorio, habran premios para las primeras personas 
 que lo completen exitosamente.
 Por favor [sigue esta guia](README.md) para configurar tu maquina con el software necesario antes del evento.
