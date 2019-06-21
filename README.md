@@ -1,5 +1,5 @@
 ![Header](images/header.jpg)
-# PASS Modern Migration Tour 2019 - Guia para la preparacion del laboratorio
+Guia para la preparacion del laboratorio
 
 Este laboratorio puede ser llevado a cabo en cualquier maquina que soporte SQL Server 2008 R2 y SQL Server 2017.
 Esta diseñado para correr en una maquina, por ejemplo una laptop corriendo Windows 10.
