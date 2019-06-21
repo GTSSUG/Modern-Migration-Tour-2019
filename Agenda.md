@@ -37,7 +37,7 @@ Por favor [revisar guia](README.md) para preparar la laptop a utilizar durante e
 ## Rifa
 Habran premios para los asistentes del evento, es requisito estar presente durante la rifa.
 
-## Diploma de particion
+## Diploma de participacion
 Todos los asistentes contaran con diploma de participacion.
 
 # Contacto
