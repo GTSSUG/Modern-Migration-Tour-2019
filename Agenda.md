@@ -32,7 +32,7 @@ Cofee break y almuerzo sin costo, cortesia de Microsoft, Intel
 ## Workshop
 Es necesario contar con laptop, habran premios para las primeras personas que completen el ejercicio de migracion exitosamente.
 
-Por favor [revisar guia](README.md) para preparar la laptop a utilizar durante el workshop.
+Por favor [revisar guia](Workshop.md) para preparar la laptop a utilizar durante el workshop.
 
 ## Rifa
 Habran premios para los asistentes del evento, es requisito estar presente durante la rifa.
