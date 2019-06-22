@@ -1,30 +1,15 @@
 ![Header](images/header.jpg)
-# Guia para la preparacion del laboratorio
+# Modern Migration Tour 2019 - Guatemala
 
-Este laboratorio puede ser llevado a cabo en cualquier maquina que soporte SQL Server 2008 R2 y SQL Server 2017.
-Esta diseñado para correr en una maquina, por ejemplo una laptop corriendo Windows 10.
-Todo el laboratorio esta basado en software que puede ser bajado gratuitamente desde el sitio de Microsoft.
+Los lideres de esta comunidad estaran presentando una serie de sesiones donde se brindara informacion, guias y todas las herramientas necesarias que le ayudaran a llegar al destino final: Una plataforma de datos moderna.
 
-## Pasos para la preparacion del laboratorio
+**¿Qué puede esperar de este evento?**
+Socialización y aprendizaje al lado de colegas expertos.
+Acceso a la capacitación específica desarrollada por ingenieros de Microsoft e Intel
+¡Mucha diversión y premios!
 
-Por favor completa estos pasos en tu computadora personal antes de asistir al evento, esto ayudara a agilizar el laboratorio y te ayudara a tener mas tiempo para trabajar en el ejercicio.
-#
-1. Descarga e instala [SQL Server 2008 R2 Express Advanced Services](https://www.microsoft.com/en-us/download/details.aspx?id=25174), Unicamente el motor de base de datos:
+# Follow us
+[![N|Solid](http://dbamastery.com/wp-content/uploads/2018/08/if_twitter_circle_color_107170.png)](https://twitter.com/gtssug) [![N|Solid](http://dbamastery.com/wp-content/uploads/2018/08/if_github_circle_black_107161.png)](https://github.com/GTSSUG)[![N|Solid](http://dbamastery.com/wp-content/uploads/2018/08/if_browser_1055104.png)](https://gtssug.pass.org/)
 
-![SQL Server 2008 R2 installation screenshot](images/SQL2008Install.png)
-#
-2. Descarga e instala [SQL Server 2017 Developer Edition](https://www.microsoft.com/en-us/sql-server/sql-server-downloads), Unicamente el motor de base de datos:
+[website]: <https://gtssug.pass.org/>
 
-![Download Developer Edition](images/DownloadDeveloperEdition.png)
-
-![Install SQL Server 2017](images/SQL2017Install.png)
-#
-3. Descarga e instala [SQL Server Management Studio 18.0](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-2017) (SSMS). Si tienes una version antigua, por favor actualizala, esta version contiene la herramienta Query Tuning Assistant (QTA) mas reciente.
-#
-4. Descarga e instala [Data Migration Assistant v4.3](https://www.microsoft.com/en-us/download/details.aspx?id=53595) (DMA).
-#
-5. Descarga e instala [Database Experimentation Assistant 2.6](https://www.microsoft.com/en-us/download/details.aspx?id=54090) (DEA).
-#
-6. Los conferencistas proveeran las bases de datos, archivos a usar y las instrucciones para realizar el laboratorio el dia del evento.
-#
-7. Esperamos verte ahi!
