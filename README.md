@@ -8,6 +8,11 @@ Los lideres de esta comunidad estaran presentando una serie de sesiones donde se
 * Acceso a la capacitación específica desarrollada por ingenieros de Microsoft e Intel
 * ¡Mucha diversión y premios!
 
+Para obtener mas informacion especifica sobre el evento, consulte aca:
+* [Agenda] (Agenda.md)
+* [Convence a tu jefe] (Convence a tu jefe.md)
+* [Workshop] (Workshop.md)
+
 Para mas informacion y registro de este evento click [aqui](https://www.eventbrite.ca/e/modern-migration-tour-2019-guatemala-tickets-61944098466).  
 Seguinos en [Facebook](https://www.facebook.com/groups/gtssug/) para conocer mas acerca de este y otros eventos.
 
