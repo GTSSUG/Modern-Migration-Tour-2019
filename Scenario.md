@@ -11,6 +11,9 @@ Dado que el fin de soporte para SQL Server 2008 esta cerca, es necesario realiza
 
 Tomando en cuenta que la Aplicacion AdventureWorks es la que mas ganancias genera a la compañia, el negocio cuenta con su habilidad para poder planear una estrategia de modernizacion confiable, y llevarla a cabo en un tiempo rasonable y a su vez minimizando los riesgos al desempeño y estabilidad de la aplicacion.
 
+
+los archivos para usar en este laboratorio pueden ser descargados [aqui](https://github.com/GTSSUG/Modern-Migration-Tour-2019/blob/master/AdventureWorks_PASSModernMigrationTour/AdventureWorks_PASSModernMigrationTour.rar)
+
 ---
 La aplicacion AdventureWorks actualmente incluye una base de datos en un servidor SQL Server 2008 R2 con un Compatibility Level de 100.
 
