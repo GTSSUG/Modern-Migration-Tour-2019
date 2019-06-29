@@ -12,7 +12,7 @@ Para obtener mas informacion especifica sobre el evento, consulte aca:
 * [Agenda](Agenda.md)
 * [Convence a tu jefe](Convence%20a%20tu%20jefe.md)
 * [Workshop](Workshop.md)
-* [Presentaciones](Presentaciones/Presentaciones.md)
+* [Presentaciones](Presentaciones/README.md)
 
 Para mas informacion y registro de este evento click [aqui](https://www.eventbrite.ca/e/modern-migration-tour-2019-guatemala-tickets-61944098466).  
 Seguinos en [Facebook](https://www.facebook.com/groups/gtssug/) para conocer mas acerca de este y otros eventos.
