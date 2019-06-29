@@ -5,7 +5,7 @@
 
 Sesion | Speaker
 --- | --- 
-Beating the End of Support for SQL Server 2008/R2 | [Christian Araujo](Migration Tour beating the EOS - Christian Araujo.pptx)
+Beating the End of Support for SQL Server 2008/R2 | [Christian Araujo](Migration%20Tour%20beating%20the%20EOS%20-%20Christian%20Araujo.pptx)
 Modernizing with SQL Server the Right Way (**Migration process**) | [Allan Fong]()
 Modernizing with SQL Server the Right Way (**Post-Migration process**) | [Eduardo Pivaral]()
 Modernizing with SQL Server 2019 & Intel (**New Intel hardware capabilities**) | [Carlos Lopez]()
